@@ -222,10 +222,10 @@ label= "TVP 2"                             ;
  bindings = <
 // ╷           ╷           ╷           ╷           ╷           ╷           ╷   ╷           ╷           ╷           ╷           ╷           ╷           ╷
 
-                &none       &none       &none       &none       &none           &none       &kp BT_SEL 7   &kp BT_SEL 8   &kp BT_SEL 9   &none         
-                &none       &none       &kp BT_CLR  &kp BT_CLR_ALL &none        &none       &kp BT_SEL 4   &kp BT_SEL 5   &kp BT_SEL 6   &none     
-    &none       &none       &none       &none       &none       &none           &none       &kp BT_SEL 1   &kp BT_SEL 2   &kp BT_SEL 3   &none       &none         
-                                        &none       &none       &none           &tog SYS    &kp BT_SEL 0   &none       
+                &none       &none       &none       &none       &none           &none       &bt BT_SEL 7   &bt BT_SEL 8   &bt BT_SEL 9   &none         
+                &none       &none       &bt BT_CLR  &bt BT_CLR_ALL &none        &none       &bt BT_SEL 4   &bt BT_SEL 5   &bt BT_SEL 6   &none     
+    &none       &none       &none       &none       &none       &none           &none       &bt BT_SEL 1   &bt BT_SEL 2   &bt BT_SEL 3   &none       &none         
+                                        &none       &none       &none           &tog SYS    &bt BT_SEL 0   &none       
                         >;
                 };
         };
