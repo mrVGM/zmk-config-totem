@@ -197,7 +197,7 @@ label= "SYM"                               ;
 
                 &none       &kp GRAVE   &kp LPAR    &kp RPAR    &kp SQT         &kp EQUAL   &kp AMPS    &kp STAR    &none       &kp BSLH         
                 &none       &kp TILDE   &kp LBKT    &kp RBKT    &kp DQT         &kp PLUS    &kp DLLR    &kp PRCNT   &kp CARET   &kp PIPE  
-    &trans      &none       &none       &kp LBRC    &kp LBRC    &kp UNDER       &kp MINUS   &kp EXCL    &kp AT      &kp HASH    &kp UNDER   &trans         
+    &trans      &none       &none       &kp LBRC    &kp RBRC    &kp UNDER       &kp MINUS   &kp EXCL    &kp AT      &kp HASH    &kp UNDER   &trans         
                                         &trans      &trans      &trans          &trans      &none       &trans      
                         >;
                 };
