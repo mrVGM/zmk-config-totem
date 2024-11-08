@@ -56,6 +56,11 @@
                 key-positions = <32 33 36 37>;
                 bindings = <&tog SYS>;
             };
+            combo_mute {
+                timeout-ms = <100>;
+                key-positions = <20 21>;
+                bindings = <&tog SYS>;
+            };
     };
 
     macros {
