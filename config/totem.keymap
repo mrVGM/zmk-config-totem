@@ -58,8 +58,8 @@
             };
             combo_mute {
                 timeout-ms = <100>;
-                key-positions = <20 21>;
-                bindings = <&tog SYS>;
+                key-positions = <20 31>;
+                bindings = <&kp C_MUTE>;
             };
     };
 
