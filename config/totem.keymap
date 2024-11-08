@@ -24,7 +24,7 @@
 #define SYS  5
 
 &mt {
-  quick-tap-ms = <100>;
+  quick-tap-ms = <170>;
   global-quick-tap;
   flavor = "tap-preferred";
   tapping-term-ms = <170>;
