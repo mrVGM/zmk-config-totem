@@ -240,7 +240,6 @@ label= "TVP 2"                             ;
                                         &none       &none       &none           &none       &none       &none       
                         >;
                 };
-        };
 
                 game_layer {
 // ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
